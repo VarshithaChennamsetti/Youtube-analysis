@@ -16,4 +16,4 @@ numpy
 
 It also shows a comparative analysis between Kmeans and HAC using the metrics Silhouette Coefficient and Calinski and Harabasz score.
 
-There might be an error in loading the plotly images.
+There might be an error in loading the plotly images. The html file is added as a backup if the .ipynb file is not working. But it is a huge file of 4.2MB and hence github maynot allow it to be shown. But feel free to clone the repository!
